@@ -5,7 +5,7 @@ const StyledGlobalStyle = createGlobalStyle`
         margin: 0;
         padding: 0;
         list-style: none;
-        font-family: Roboto, console-sans;
+        font-family: 'Urbanist', console-sans, sans-serif;
     }
 `
 
